@@ -44,7 +44,8 @@
 {
     font-size: large;
     display: inline-block;
-    background-color: rgb(95, 15, 144);;
+    background-color: rgb(95, 15, 144);
+    color : white;
     border-radius: 5px;
     padding: 3px;
     padding-left: 6px;
@@ -68,6 +69,7 @@
     position: absolute;
     width: 500px;
     font-size: 125%;
+    color: white;
     margin-top: 360px;
     margin-left: 50px;
     font-family: system-ui;
@@ -131,4 +133,9 @@
 .foot
 {
     position: relative;
+    background-color:black
+}
+.back
+{
+    background-color: black;
 }
